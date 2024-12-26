@@ -1,5 +1,5 @@
 # EECS-1015-Project
-# EECS 1015 Python final year project
+# EECS 1015 Python final project
 
 '''
 High-Low Game in Python
